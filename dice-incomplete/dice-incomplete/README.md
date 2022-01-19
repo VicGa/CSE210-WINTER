@@ -31,3 +31,4 @@ root                    (project root folder)
 ## Authors
 ---
 * Matt Manley (manleym@byui.edu)
+* VICTOR DANIEL GAUNA ==> JUST THE die.py file
